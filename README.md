@@ -4,4 +4,4 @@ C++, C#, Java, JS, Kotlin, Lua & Python
 
 Jetbrains poweruser
 
-## If you vibecode anything besides a throwaway tool only you’ll ever touch, stay the fuck away from me.
+## If you vibecode anything besides a throwaway tool only you’ll ever touch, please stay the fuck away from me.
