@@ -1,4 +1,6 @@
 ## Programming and Developing since 2017
+## Currently a Game Developer.
+
 
 C++, C#, Java, JS, Kotlin, Lua & Python
 
