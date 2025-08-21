@@ -9,6 +9,7 @@ Living in JetBrains IDEs, pushing most of my work to **GitLab**.
 | C# | **8** | Unity & backend services |
 | Java | **6** | Old MC shit usually |
 | C++ | **5** | Unreal Engine |
+| Rust | **4** | certain backend shit |
 
 *Past lives:* Lua, Python, and more Java.
 
