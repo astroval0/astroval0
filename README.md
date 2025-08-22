@@ -16,7 +16,7 @@ I've dabbled in many areas of tech, pretty much every corner there is, whether t
 *Past lives:* Lua, Python, and more Java.
 
 ## Tooling
-- **JetBrains power-user** (IDEA, Rider, Webstorm)
+- **JetBrains power-user** (IDEA, Rider, Webstorm, RustRover, CLion etc)
 - Gradle, npm
 - Docker, GitLab CI/CD
 
