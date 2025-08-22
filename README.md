@@ -3,6 +3,8 @@ Living in JetBrains IDEs, pushing most of my work to **GitLab**.
 
 I've dabbled in many areas of tech, pretty much every corner there is, whether that be making custom bootloaders, roms, modding firmware, modding operating systems, hacking, penetration testing, modding, arduinos etc etc
 
+I usually keep everything i make private because its never maintained or used for long, Ill upload all my previous projects here or on gitlab at some point though :P
+
 ## Core Stack
 | Language | Skill (1-10) | Notes |
 |----------|-------------|-------|
