@@ -8,18 +8,16 @@ Most of my projects stay private - they're usually short lived experiments - but
 ## Core Stack
 | Language | Skill (1-10) | Notes |
 |----------|-------------|-------|
-| Kotlin | **7** | Primary choice for JVM + Minecraft Modding |
+| Kotlin | **7** | Primary choice for JVM |
 | JavaScript / TypeScript | **8** | Full-stack |
 | C# | **8** | Unity & backend services |
 | Java | **6** | Old MC shit usually |
 | C++ | **5** | Unreal Engine |
 | Rust | **4** | certain backend shit |
 
-*Past lives:* Lua, Python, and more Java.
-
 ## Tooling
 - **JetBrains power-user** (IDEA, Rider, Webstorm, RustRover, CLion etc)
 - Gradle, npm
 - Docker, GitLab CI/CD
 
-## If you vibecode anything besides a throwaway tool only you’ll ever touch, please stay away from me.
+### VIBECODERS DNI
