@@ -16,7 +16,7 @@ Most of my projects stay private - they're usually short lived experiments - but
 | Rust | **4** | certain backend shit |
 
 ## Tooling
-- **JetBrains power-user** (IDEA, Rider, Webstorm, RustRover, CLion etc)
+- **JetBrains power-user** (IDEA, Rider, Webstorm, RustRover, CLion, Android Studio etc)
 - Gradle, npm
 - Docker, GitLab CI/CD
 
