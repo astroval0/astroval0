@@ -1,9 +1,9 @@
 ## **Game developer & polyglot coder since 2017.**  
 Living in JetBrains IDEs, pushing most of my work to **GitLab**. 
 
-I've dabbled in many areas of tech, pretty much every corner there is, things like custom bootloaders, roms, modding firmware, modding operating systems, hacking, penetration testing, modding, pcb engineering, reverse engineering, anticheat and many more. I have the ability to learn things extremely fast
+I dive into everything tech; custom bootloaders, roms, firmware hacks, OS mods, PCB tinkering, penetration testing, reverse engineering and anticheat systems. I learn insanely fast and have a compulsion to tear into everything just to see how it works.
 
-I usually keep everything i make private because its never maintained or used for long, Ill upload all my previous projects here or on gitlab at some point though :P
+Most of my projects stay private - they're usually short lived experiments - but I'll be open sourcing most my past work on here or gitlab soon :P
 
 ## Core Stack
 | Language | Skill (1-10) | Notes |
