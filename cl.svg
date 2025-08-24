@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 28" width="89" height="28">
+	<title>68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465</title>
+	<defs>
+		<image  width="89" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAcCAMAAAA9QONCAAAAAXNSR0IB2cksfwAAAQtQTFRFHIH/HYD+HoD9IH/8IX/8I377JH76Jn75KH34Kn33LHz2Lnv1MHv0MnrzNHryNnnxOXjvO3juPXftQHbsQnbqRXXpSHTnSnPmTXPlUHLjU3HiVXDgWG/fW2/dXm7cYW3aZGzYZ2vXa2rVbmnUcWjSdGjQd2fOembNfmXLgWTKhGPIh2LGi2HEjmDDkV/BlF6/mF6+m128nly6oVu5pFq3p1m1q1i0rleysVawtFavt1WtulSsvVOqv1KpwlGnxVGmyFCky0+jzU6i0E6g002f1Uye10yc2kub3Eqa3kqZ4UmX40iW5UiV50eU6UeT60aS7EaR7kWQ8EWP8USP80SO9EON9kOM90OM+EOMo5Ls+QAAAFl0Uk5T/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////z/54ywyAAAAI0lEQVR4nO3MMQEAAAwCoNm/9FLoBQHIpcVsNpvNZrPZPJwf9gUJvUxMpHEAAAAASUVORK5CYII="/>
+		<image width="24" height="24" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAa9JREFUSEu9lb9LVmEUxz9f/4B2KUWHDDepJZWGoBahhia3QIcWGyJ1MCSIpoYChVALTQ0dBHcdFPoptLW5iQrhX+D47R7zhdfbvW/vlSfP9vKe8/08z7nn+xzRIGy3AHeBKaCrUW7Bf1+Bh/oHYAZ4AEwD7yX9ahZiewh4VAqw/Rq4B9yWdNiscC3PdjuwVwiw/Qa4D/RJOqoqHvm224D9vwApxEsBqcQLAbZfAY+BD0DVtmxJ+lTfSttXgIOTFmXj+CL7MQyMAx/P0fNJSS8LAbbvAPPALaAV+J4asAmsSlqwffN/AI6BHkm7tnuBb6lvYKAtzGS7H/iSCPDHB7YvFJCyRd3Aj/wNUgLG4i3LA5JMke0OYAcYSX4D251AuDpGf7wMEMZbLpimcGtMWj5OnFwnvixpIpLygL5sg8Um2j49RV5oMDvZtSJAtvFWgM+nJx+t5ZQBqlrhHTAArEl6Ul+cB1wCrldUvwzMAW8lxeSciRqgXdJBReF4heNJjrasS3paVB+An7EDJMUObips34h1CjzLXuBZSc/LCgNwFVgEwmRVYiM+rKSlRkW/AT/oEOKmI2piAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 100px;fill: #ffffff;font-weight: 700;font-family: "Verdana-Bold", "Verdana" } 
+	</style>
+	<g>
+		<use  href="#img1" x="0" y="0"/>
+	</g>
+	<g>
+		<use  href="#img2" transform="matrix(.583,0,0,.583,9,7)"/>
+		<text id="CLION" style="transform: matrix(.1,0,0,.1,54.125,17.5)" >
+			<tspan x="-180.2" y="0" class="t0">C</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">O</tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0">
+</tspan>
+		</text>
+	</g>
+</svg>

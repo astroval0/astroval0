@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114 28" width="114" height="28">
+	<title>68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465</title>
+	<defs>
+		<image  width="115" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHMAAAAcCAMAAABlP3BbAAAAAXNSR0IB2cksfwAAATVQTFRF/6gt/qct/qYu/aUv/aQw/KMx/KIy+6Ez+6A0+p81+p42+Zw3+Zs4+Jo695g79pc99pU+9ZNA9JJB85BD849E8o1G8YtI8IlJ74hL7oZN7oRO7YJQ7IFR639T635U6nxW6XpX6HlZ6Hda53Zc5nRd5nNe5XJg5HFh5HBi429j425k4m1l4mxl4mtm4Wpn4Wlo4Glp32lp3mlq3Wlq3Glr2mls2Gls1mpt1Gpu0mpwz2pxzGtyymtzx2t1w2x3wGx4vGx6uW18tW1+sW1/rW6BqW6DpW+FoW+HnW+JmHCLlHCNkHGPi3GRh3KUg3KWf3OYe3OZd3Obc3Sdb3Sfa3WhaHWjZHWkYXamXXaoW3apWHeqVXesUnetUHeuTnivTHiwSnixSXixR3iyR3izRnizRXizAAAAsR6pxQAAAGd0Uk5T/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////vCvAB1Nx3QAAAAzSURBVHic7c0xDgAgCAPA8v9Pi64mRPcroVtzlUr6+95zNrs+NteeyWQymUwmk8lkMucsawULRZJAjssAAAAASUVORK5CYII="/>
+		<image width="24" height="24" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAa9JREFUSEu9lb9LVmEUxz9f/4B2KUWHDDepJZWGoBahhia3QIcWGyJ1MCSIpoYChVALTQ0dBHcdFPoptLW5iQrhX+D47R7zhdfbvW/vlSfP9vKe8/08z7nn+xzRIGy3AHeBKaCrUW7Bf1+Bh/oHYAZ4AEwD7yX9ahZiewh4VAqw/Rq4B9yWdNiscC3PdjuwVwiw/Qa4D/RJOqoqHvm224D9vwApxEsBqcQLAbZfAY+BD0DVtmxJ+lTfSttXgIOTFmXj+CL7MQyMAx/P0fNJSS8LAbbvAPPALaAV+J4asAmsSlqwffN/AI6BHkm7tnuBb6lvYKAtzGS7H/iSCPDHB7YvFJCyRd3Aj/wNUgLG4i3LA5JMke0OYAcYSX4D251AuDpGf7wMEMZbLpimcGtMWj5OnFwnvixpIpLygL5sg8Um2j49RV5oMDvZtSJAtvFWgM+nJx+t5ZQBqlrhHTAArEl6Ul+cB1wCrldUvwzMAW8lxeSciRqgXdJBReF4heNJjrasS3paVB+An7EDJMUObips34h1CjzLXuBZSc/LCgNwFVgEwmRVYiM+rKSlRkW/AT/oEOKmI2piAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 100px;fill: #ffffff;font-weight: 700;font-family: "Verdana-Bold", "Verdana" } 
+	</style>
+	<g>
+		<use  href="#img1" x="0" y="0"/>
+	</g>
+	<g>
+		<use  href="#img2" transform="matrix(.583,0,0,.583,5,7)"/>
+		<text id="INTELLIJ IDEA" style="transform: matrix(.1,0,0,.1,67.125,17.5)" >
+			<tspan x="-415.5" y="0" class="t0">I</tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">J</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">D</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">A
+</tspan>
+		</text>
+	</g>
+</svg>
