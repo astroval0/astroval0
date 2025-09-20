@@ -16,7 +16,7 @@ Extensive experience with networking and Linux systems (Arch, Ubuntu, Debian, Ka
 
 Skilled in wireless hacking and penetration testing.
 
-In depth knowledge of cheat systems, reverse engineering methods, and security mechanisms.
+In depth knowledge of cheat systems, reverse engineering methods and security mechanisms.
 
 Have a strong dislike of AI LLMs and their uses.
 
