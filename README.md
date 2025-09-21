@@ -18,7 +18,7 @@ Skilled in wireless hacking and penetration testing.
 
 In depth knowledge of cheat systems, reverse engineering methods and security mechanisms.
 
-Experience using self hosted Perforce.
+Experience using Perforce Helix Core.
 
 Have a strong dislike of AI LLMs and their uses.
 
