@@ -2,7 +2,7 @@
 17 and from the UK.
 Living in JetBrains IDEs, pushing most of my work to **GitLab**. 
 
-I dive into everything tech; fullstack web development, api tooling, automation, server management, custom bootloaders, roms, firmware hacks, OS mods, PCB tinkering, game mods, penetration testing, reverse engineering, 3d modelling, asset ripping, 3d printing and also anticheat systems. I learn inhumanly fast and have a compulsion to tear into everything just to see how it works. I try to avoid paying as much as possible; whether that ends up with me reverse engineering something or self hosting.
+I dive into everything tech; fullstack web development, api tooling, automation, server management, custom bootloaders, roms, firmware hacks, OS mods, PCB tinkering, game mods, penetration testing, reverse engineering, 3d modelling, asset ripping, 3d printing and also anticheat systems. I learn very fast and have a compulsion to tear into everything just to see how it works. I try to avoid paying as much as possible; whether that ends up with me reverse engineering something or self hosting.
 
 Most of my projects stay private - they're usually short lived experiments - but I'll be open sourcing most my past work on here or gitlab soon :P
 
