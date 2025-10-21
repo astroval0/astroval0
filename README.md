@@ -20,5 +20,5 @@ Obsessed with how shit works under the hood. I prefer to use C++/C# and Rust but
 
 I learn insanely fast. I use GitLab for my private work because their CI is just better.
 
-> "The day we let LLMs think for us is the start of the end of human innovation and knowledge."
+> "The day we let LLMs think for us is the beginning of the end."
 > \- uhh John Wick, probably.
