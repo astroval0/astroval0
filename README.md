@@ -1,37 +1,24 @@
-## **game developer & polyglot coder.**  
-17 and from the UK.
-Living in JetBrains IDEs, pushing most of my work to **GitLab**. 
+17 // United Kingdom
 
-I dive into everything tech; fullstack web development, api tooling, automation, server management, custom bootloaders, roms, firmware hacks, OS mods, PCB tinkering, game mods, penetration testing, reverse engineering, 3d modelling, asset ripping, 3d printing and also anticheat systems. I learn very fast and have a compulsion to tear into everything just to see how it works. I try to avoid paying as much as possible; whether that ends up with me reverse engineering something or self hosting.
+Obsessed with how shit works under the hood. I prefer to use C++/C# and Rust but can flex to JS or Kotlin/Java when suited.
 
-Most of my projects stay private - they're usually short lived experiments - but I'll be open sourcing most my past work on here or gitlab soon :P
+---
 
-~3 years of Unity (C#) experience and just under 2 years with Unreal (C++).
+### Some of the more interesting shit I've done
 
-~5 years of Blender experience, focused on low-poly modeling with broad exploration across other areas. Started at age 12–13, now approaching 2000 total hours, with 600+ recently logged on Steam’s Blender.
+*   **Project: SpectreRevival (WIP):** Currently reviving the shut down tac fps *Spectre Divide*. I'm reverse engineering the client and rebuilding its entire metagame backend from scratch. I've already finished a static response server in Kotlin which allows me to enter the main menu lobby and mess around with stuff, and I'm now building the fully dynamic C++ version and the dedicated servers with `@OhmV-IR` to bring the game back online, all just for funsies because i like the game.
 
-Strong familiarity with Windows internals, including use of custom performance DLLs on Windows 11.
+*   **Hunting Cheaters:** Worked directly with the devs at **Mountaintop Studios (Spectre Divide)** to build an intelligence platform that hunted and exposed cheaters. It was a full stack web and discord system for tracking cheating players and their communities. We caught a shit ton of them. I also started (with the help of mountaintop & some community peeps) "SpectrePD", creating a moderated pipeline for community reports to reach the developers.
 
-Extensive experience with networking and Linux systems (Arch, Ubuntu, Debian, Kali).
+*   **Breaking Shit (Respectfully):** I love to tear software apart. I've bypassed commercial antitamper solutions like **Theia**, written custom **x64dbg plugins** to debug protected games, and even modded network adapters with a soldering iron for better wireless penetration testing. For fun, I reversed Spectre Divide's encryption, ripped unreleased assets, and wrote MITM proxies to fuck with the game client mid flight (clientside, of course).
 
-Skilled in wireless hacking and penetration testing.
+*   **Building My Own Jarvis:** Built a fullstack AI assistant from the ground up, all selfhosted. A Kotlin app on my phone talks to my own OpenWakeWord/ASR servers, which then speak to a custom **Rust router** I wrote to handle logic and pick the most cost-effective LLM. The response comes back through a realistic TTS voice, all with minimal latency.
 
-In depth knowledge of cheat systems, reverse engineering methods and security mechanisms.
+*   **Game Dev From Scratch:** I like to build my own tools. I wrote a custom **'NPC engine' in Rust** (a bit like Skyrim Creation Kit's npc creation system) for a nice way to speed up my workflow. I've also built everything from a complex networked enemy AI in Unity to a fullbody VR InverseKinematic system with very interactive physics in UE5 (mix of cpp and bp).
 
-Experience using Perforce Helix Core.
+---
 
-Have a strong dislike of AI LLMs and their uses.
+I learn insanely fast. I use GitLab for my private work because their CI is just better.
 
-
-# most my stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-## Tooling
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-## IDEs
-
-![Rider](https://raw.githubusercontent.com/astroval0/astroval0/6babc5affd553d5d1d80e298ee43aa0e14676f36/r.svg) ![Clion](https://raw.githubusercontent.com/astroval0/astroval0/6babc5affd553d5d1d80e298ee43aa0e14676f36/cl.svg) ![Intellij IDEA](https://raw.githubusercontent.com/astroval0/astroval0/6babc5affd553d5d1d80e298ee43aa0e14676f36/ij.svg) ![Rust Rover](https://raw.githubusercontent.com/astroval0/astroval0/6babc5affd553d5d1d80e298ee43aa0e14676f36/rr.svg) ![Webstorm](https://raw.githubusercontent.com/astroval0/astroval0/6babc5affd553d5d1d80e298ee43aa0e14676f36/ws.svg) ![Android Studio](https://raw.githubusercontent.com/astroval0/astroval0/bbc8a5ea0671a8f70b716944bb587b6c925382f8/as.svg)
-
-### VIBECODERS DNI
+> "The day we let LLMs think for us is the start of the end of human innovation and knowledge."
+> \- uhh John Wick, probably.
