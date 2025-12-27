@@ -7,7 +7,7 @@ Used to do a lot of full-stack and a bit of web dev, mostly focusing on game dev
 
 ### Some of the more interesting shit I've done
 
-*   **Project: SpectreRevival (WIP):** Currently reviving the shut down tac fps *Spectre Divide*. I'm reverse engineering the client and rebuilding its entire metagame backend from scratch. I've already finished a static response server in Kotlin which allows me to enter the main menu lobby and mess around with stuff, and I'm now building the fully dynamic C++ version and the dedicated servers with `@OhmV-IR` to bring the game back online, all just for funsies because i like the game.
+*   **Project: SpectreRevival (WIP):** Currently attempting to revive the shut down tac fps *Spectre Divide*. I'm reverse engineering the client and rebuilding its entire metagame backend from scratch. I've already finished a static response server in Kotlin which allows me to enter the main menu lobby and mess around with stuff, and I'm now building the fully dynamic C++ version and the dedicated servers with `@OhmV-IR` to bring the game back online, all just for funsies because i like the game.
 
 *   **Hunting Cheaters:** Worked directly with the devs at **Mountaintop Studios (Spectre Divide)** to build an intelligence platform that hunted and exposed cheaters. It was a full stack web and discord system for tracking cheating players and their communities. We caught a shit ton of them. I also started (with the help of mountaintop & some community peeps) "SpectrePD", creating a moderated pipeline for community reports to reach the developers.
 
