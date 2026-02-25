@@ -1,6 +1,6 @@
 17 // United Kingdom
 
-Obsessed with how shit works under the hood. I prefer to use C++, C#, and a little bit of Rust. I can flex to JS or Kotlin when suited.
+Obsessed with how shit works under the hood.
 
 Ive been coding since I was around 8-9 years old and was introduced to it at around 5 :D
 
