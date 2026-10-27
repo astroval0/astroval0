@@ -6,4 +6,4 @@ Ive been coding since I was around 8-9 years old, and was introduced to it at ar
 
 I used to do a lot of full-stack and a small amount of web dev. Currently focusing on Gameplay Programming in Unreal Engine and Systems Engineering with C++.
 
-also pretty experienced in Reverse Engineering, 3D Modelling, and Modding games :D
+also pretty experienced in Reverse Engineering and Modding games :D
