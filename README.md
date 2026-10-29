@@ -10,4 +10,4 @@ I'd rather spend hours writing and figuring things out myself than take a shortc
 
 hot take: a language that heavily relies on indentation to declare statements is terrible.
 
-![C++](assets/icons/cpp.svg "C++") ![C#](assets/icons/cs.svg "C#") ![TypeScript](assets/icons/ts.svg "TypeScript") ![JavaScript](assets/icons/js.svg "JavaScript") ![Java](assets/icons/java.svg "Java") ![Rust](assets/icons/rust.svg "Rust") ![Kate](assets/icons/kate.svg "Kate") ![Unreal Engine](assets/icons/unreal.svg "Unreal Engine") ![Docker](assets/icons/docker.svg "Docker") ![Terminal](assets/icons/term.svg "Terminal")
+![C++](assets/icons/cpp.svg "C++") ![C#](assets/icons/cs.svg "C#") ![Rust](assets/icons/rust.svg "Rust") ![TypeScript](assets/icons/ts.svg "TypeScript") ![JavaScript](assets/icons/js.svg "JavaScript") ![Java](assets/icons/java.svg "Java") ![Unreal Engine](assets/icons/unreal.svg "Unreal Engine") ![Docker](assets/icons/docker.svg "Docker") ![Terminal](assets/icons/term.svg "Terminal") ![Kate](assets/icons/kate.svg "Kate") 
