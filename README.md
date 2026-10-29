@@ -6,7 +6,7 @@ These days I spend most my time gameplay programming in Unreal Engine, reverse e
 
 I can jump between languages pretty easily, but C++ and C# are where I have the most experience. 
 
-I'd rather spend hours figuring something out than ship something I don't understand.
+I'd rather spend hours writing and figuring things out myself than take a shortcut I don't learn from.
 
 hot take: a language that heavily relies on indentation to delcare statements is terrible.
 
