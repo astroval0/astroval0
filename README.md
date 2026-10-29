@@ -4,7 +4,7 @@ First introduced to programming at 5 years old through <a href="https://github.c
 
 These days I spend most my time gameplay programming in Unreal Engine, reverse engineering, and modding games.
 
-I can jump between languages pretty easily, but C++ and C# are where I've got the most experience. 
+I can jump between languages pretty easily, but C++ and C# are where I have the most experience. 
 
 I'd rather spend hours figuring something out than ship something I don't understand.
 
