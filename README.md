@@ -2,7 +2,7 @@
 
 <br><br>
 
-First introduced to programming at 5 years old through <a href="https://github.com/sgimenez/laby">Laby</a>, then started properly at 8 with Luau.
+First introduced to programming at 5 years old through <a href="https://github.com/sgimenez/laby">Laby</a>, then started properly at 8 with <a href="https://luau.org/">Luau</a>.
 
 These days I spend most my time gameplay programming in Unreal Engine, reverse engineering, and modding games.
 
